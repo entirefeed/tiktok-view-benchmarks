@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these numbers, please cite this repository."
+type: dataset
+title: "TikTok View Benchmarks: the distribution of views across 2.8 billion public TikTok posts"
+abstract: >-
+  Histograms and percentile tables of view counts for 2,785,427,819 public
+  TikTok posts published from October 2024 to September 2026, for all posts
+  and for 4,038 hashtags. Posts are counted only if they were at least 7 days
+  old when their views were read. The data covers views only. The free tool
+  at https://entirefeed.com/tools/tiktok-benchmark reads the same data.
+authors:
+  - name: "EntireFeed"
+    website: "https://entirefeed.com"
+date-released: "2026-11-12"
+repository-code: "https://github.com/entirefeed/tiktok-view-benchmarks"
+url: "https://github.com/entirefeed/tiktok-view-benchmarks"
+license: CC-BY-NC-4.0
+keywords:
+  - TikTok
+  - views
+  - benchmark
+  - hashtags
+  - social media
+  - dataset
+references:
+  - type: data
+    title: "TikTok Videos (5.6 billion)"
+    authors:
+      - name: "DataSocial"
+    year: 2026
+    url: "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos"
+    license: CC-BY-NC-4.0
